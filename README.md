@@ -20,3 +20,5 @@ Developer :computer:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins&hide=contribs,prs)
+
