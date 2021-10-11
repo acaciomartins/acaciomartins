@@ -17,7 +17,7 @@ Developer :computer:
  
 | [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fac%25C3%25A1cio-amorelli-martins-30133651%2F)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins&show_icons=true&theme=onedark)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins)](https://github.com/anuraghazra/github-readme-stats)
