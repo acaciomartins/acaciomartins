@@ -12,6 +12,7 @@ Developer :computer:
  <br/> :blush: &nbsp; Com o conhecimento que possuo, posso ajudar com CSS, JavaScript, Java e Agile.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript e Java.
  <br/> 💬  &nbsp; Sobre mim: Apaixonado tecnologias, RPG de Mesa, Animes e seriados
+ <br/> ![Badge](https://img.shields.io/badge/DevSemFronteiras_Blog?style=for-the-badge&logo=hugo)
  <br/> :email: &nbsp; Entre em contato comigo: 
  
 | [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fac%25C3%25A1cio-amorelli-martins-30133651%2F)
