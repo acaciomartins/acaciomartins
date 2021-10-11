@@ -18,10 +18,9 @@ Developer :computer:
  :rocket:  &nbsp; Atualmente trabalho na **Porto Seguro SA**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJs, Angular e propondo melhorias em Sistemas Legados
  <br/> :blush: &nbsp; Com o conhecimento que possuo, posso ajudar com CSS, JavaScript, Java e Agile.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript e Java.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, Angular e Java.
  <br/> 💬  &nbsp; Sobre mim: Apaixonado tecnologias, RPG de Mesa, Animes e seriados
  <br/> :memo:[ &nbsp; DevSemFronteiras_Blog](https://awesome-montalcini-fe849a.netlify.app/)
- <br/> :email: &nbsp; Entre em contato comigo: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins&show_icons=true&theme=dracula)
 
