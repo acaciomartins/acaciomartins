@@ -1,10 +1,18 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
 # Acácio Amorelli Martins
 
 ## Olá pessoal 👋
-Sou programador e amante de Tecnologia desenvolvendo Front-end e Back-end nas linguagens Java e JavaScript.
+
+Sou Arquiteto de Tecnologia e também sou programador e amante de Tecnologia desenvolvendo Front-end e Back-end nas linguagens Java e JavaScript.
+
+## Projeto pessoal com Mentoria em Grupo!
+
+Diante do cenário onde vejo muitos desenvolvedores, independentes de serem trainees, juniores, estagiários ou amantes da programação perdidos em meio a várias tecnologias, vagas muitas vezes descabidas e trilhando pelo caminho que já passei, resolvi dar início ao meu projeto de Mentorias.
+
+Atuo como mentor pelo LinkedIn e através de mentorias em grupo.
+
+Minha satisfação é enorme quando percebo que de certa forma estou agregando conhecimento e abrindo portas jamais imaginadas aos meus colegas (mentorados) de jornada no mundo da programação.
+
+
 Developer :computer:
 
  :rocket:  &nbsp; Atualmente trabalho na **Porto Seguro SA**
