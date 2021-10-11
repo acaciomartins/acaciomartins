@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="200" style="border-radius:50%" alt="Acacio Martins" title="AcácioMentoria" src="acacio_mentoria.jpeg" />
+  <img width="200" style="border-radius:50%" alt="Acacio Martins" title="AcácioMentoria" src="acacio_mentoria.png" />
 </h1>
 
 # Acácio Amorelli Martins
