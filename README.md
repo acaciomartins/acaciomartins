@@ -1,8 +1,3 @@
-<style>
- /* You know what a style block looks like.
-    Just drop your fancy image styles here and put this right in your Markdown, champ! */
-</style>
-
 <h1 align="center">
   <img width="200" style="border-radius:50%" alt="Acacio Martins" title="AcácioMentoria" src="acacio_mentoria.jpeg" />
 </h1>
