@@ -14,14 +14,11 @@ Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Apaixonado tecnologias, RPG de Mesa, Animes e seriados
  <br/> :memo:[ &nbsp; DevSemFronteiras_Blog](https://awesome-montalcini-fe849a.netlify.app/)
  <br/> :email: &nbsp; Entre em contato comigo: 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaciomartins)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaciomartins)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins&hide=contribs,prs)
+
 
