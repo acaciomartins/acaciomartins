@@ -24,7 +24,7 @@ Developer :computer:
  <br/> :blush: &nbsp; Com o conhecimento que possuo, posso ajudar com CSS, JavaScript, Java e Agile.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, Angular e Java.
  <br/> 💬  &nbsp; Sobre mim: Apaixonado tecnologias, RPG de Mesa, Animes e seriados
- <br/> :memo:[ &nbsp; DevSemFronteiras_Blog](https://awesome-montalcini-fe849a.netlify.app/)
+ <br/> :memo:[ &nbsp; DevSemFronteiras_Blog](https://acaciomartins.github.io/blog/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaciomartins&show_icons=true&theme=dracula)
 
