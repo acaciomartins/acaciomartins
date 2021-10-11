@@ -1,10 +1,10 @@
 # Acácio Amorelli Martins
 
-## Olá pessoal 👋
+**Olá pessoal 👋**
 
 Sou Arquiteto de Tecnologia e também sou programador e amante de Tecnologia desenvolvendo Front-end e Back-end nas linguagens Java e JavaScript.
 
-## Projeto pessoal com Mentoria em Grupo!
+**Projeto pessoal com Mentoria em Grupo!**
 
 Diante do cenário onde vejo muitos desenvolvedores, independentes de serem trainees, juniores, estagiários ou amantes da programação perdidos em meio a várias tecnologias, vagas muitas vezes descabidas e trilhando pelo caminho que já passei, resolvi dar início ao meu projeto de Mentorias.
 
