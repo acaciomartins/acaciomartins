@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img alt="Acacio Martins" title="AcácioMentoria" src="acacio_mentoria.jpeg" />
+  <img width="100" alt="Acacio Martins" title="AcácioMentoria" src="acacio_mentoria.jpeg" />
 </h1>
+<img width="100" src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" data-canonical-src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="max-width: 100%;">
 
 # Acácio Amorelli Martins
 
